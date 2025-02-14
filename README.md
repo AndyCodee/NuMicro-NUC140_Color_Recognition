@@ -44,7 +44,7 @@ The classification result is displayed on a terminal connected via UART.
 6. `Repeat the Process`:
 The system continuously reads new RGB values from the photoresistors, processes them through the neural network, and displays updated predictions.
     - This cycle allows for real-time color classification.
-    - 
+      
 ### Operating Principle
 `Color Sensor`:
 - When an object is illuminated with white light, it reflects 
