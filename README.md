@@ -19,15 +19,18 @@
 * [DEMO Video (YouTube)](#demo-video-youtube)
 
 ## Device and IDE
-### [NuvoTon NuMaker-M032KG](https://direct.nuvoton.com/tw/numaker-m032kg)
-![numaker-m032kg](https://github.com/user-attachments/assets/53c2646d-d427-4818-993f-16b76a3c903f)
+### [NuvoTon NuMicro-NUC140](https://www.nuvoton.com/products/microcontrollers/arm-cortex-m0-mcus/nuc140-240-connectivity-series/?__locale=zh_TW)
+<img src="https://github.com/user-attachments/assets/30c15078-53bf-48de-983a-7b072c37de7f" width="500" />
+
+
 
 ### [keil uVision 5](https://www.keil.com/download/list/uvision.htm)
 <img src="https://github.com/user-attachments/assets/f8142b6a-61fc-459c-83a1-2361ee4d3eb9" width="200">
 
 
 ## Circuit Diagram
-![image](https://github.com/user-attachments/assets/65bda780-0380-43b8-a790-017e51f4f0d4)
+![image](https://github.com/user-attachments/assets/26526984-e303-4d4f-978f-6cae3745e3bc)
+
 
 ## Method
 ### Operating Principle
@@ -40,11 +43,15 @@ color.
 - Cellophane can assist in filtering light
 - Combining these helps detect the intensity of specific 
 colored light
-- ![image](https://github.com/user-attachments/assets/d53c70fb-e76b-4c94-8a99-273e58268411)
+- ![image](https://github.com/user-attachments/assets/e0ff4258-7df9-4501-815c-37fd3775d799)
+
 
 ### Machine Learning
 - Use MLP (Multilayer Perceptron) as the model architecture.
-- ![image](https://github.com/user-attachments/assets/1208b72e-beb0-4a88-8600-db722dd545b8)
+![image](https://github.com/user-attachments/assets/987c1b44-1aa4-425b-8db1-970c32820f4c)
+
+
+
 
 ### STEPS
 1. `Baseline Initialization`:
